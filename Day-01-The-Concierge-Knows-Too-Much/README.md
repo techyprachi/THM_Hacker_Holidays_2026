@@ -23,7 +23,7 @@ I started by visiting the web application and reviewing the available pages.
 
 ### Screenshot
 
-![Room Overview](Day-01-The-Concierge-Knows-Too-Much/room-overview.png)
+![Room Overview](images/room-overview.png)
 
 ---
 
@@ -33,7 +33,7 @@ The room description provided useful context about the challenge objectives.
 
 ### Screenshot
 
-![Room Description](Day-01-The-Concierge-Knows-Too-Much/room-description.png)
+![Room Description](images/room-description.png)
 
 ---
 
@@ -43,7 +43,7 @@ I inspected the Task and looked for publicly exposed information.
 
 ### Screenshot
 
-![Main Task](Day-01-The-Concierge-Knows-Too-Much/Task.png)
+![Task](images/Task.png)
 
 ---
 
@@ -53,11 +53,11 @@ Developer comments contained information that could assist in gaining access.
 
 ### Screenshot
 
-![Page Source](Day-01-The-Concierge-Knows-Too-Much/Important-Info.png)
+![Important Info](images/Important-Info.png)
 
 ---
 
-![Agent](Day-01-The-Concierge-Knows-Too-Much/Agent.png)
+![Agent](images/Agent.png)
 
 ---
 
@@ -67,7 +67,7 @@ Developer comments contained information that could assist in gaining access.
 - Exposed Credentials
 - Weak Operational Security
 -
-![Agent](Day-01-The-Concierge-Knows-Too-Much/message.png)
+![Message](images/message.png)
 
 ---
 
@@ -75,7 +75,9 @@ Developer comments contained information that could assist in gaining access.
 
 - T1592 - Gather Victim Host Information
 - T1580 - Gather Victim Network Information
- ![Agent](Day-01-The-Concierge-Knows-Too-Much/Flag.png)
+
+-
+![Flag](images/Flag.png)
 ---
 
 ## Lessons Learned
