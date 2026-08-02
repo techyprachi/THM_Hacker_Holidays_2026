@@ -164,3 +164,16 @@ This repository is intended for educational purposes only.
 The write-up documents my personal learning journey while completing the **TryHackMe Hacker Holidays 2026** event.
 
 No challenge answers, flags, or sensitive solutions have been intentionally disclosed in accordance with TryHackMe's content guidelines.
+
+---
+
+## 📢 Share & Connect
+
+If you found this write-up helpful, feel free to connect with me and follow my cybersecurity journey.
+
+💼 **LinkedIn Post**  
+https://www.linkedin.com/posts/prachi-agarwal-72a15729a_tryhackme-hackerholidays2026-cybersecurity-ugcPost-7489727287991578625-5AbW/
+
+⭐ If you like this repository, consider giving it a star!
+
+---
