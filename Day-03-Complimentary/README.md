@@ -159,4 +159,4 @@ https://github.com/techyprachi/THM_Hacker_Holidays_2026
 
 ## LinkedIn Walkthrough
 
-*(Add your LinkedIn post link after publishing.)*
+https://www.linkedin.com/feed/update/urn:li:activity:7490045630309126144/
