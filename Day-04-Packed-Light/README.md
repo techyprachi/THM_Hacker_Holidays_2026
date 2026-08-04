@@ -219,7 +219,7 @@ This room demonstrated how attackers can disguise sensitive information inside n
 ## 🔗 Related Resources
 
 - 📂 **GitHub Repository:** https://github.com/techyprachi/THM_Hacker_Holidays_2026
-- 💼 **LinkedIn Walkthrough:** *(Add your LinkedIn post link here after publishing.)*
+- 💼 **LinkedIn Walkthrough:** https://www.linkedin.com/feed/update/urn:li:activity:7490406333498880001/
 
 ---
 
