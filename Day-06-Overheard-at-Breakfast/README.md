@@ -10,7 +10,7 @@
 
 ## 🎥 Walkthrough
 
-> 🔗 **LinkedIn Video:** *(Add your LinkedIn post link here after publishing)*
+> 🔗 **LinkedIn Video:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7490661730520285184/
 
 ---
 
