@@ -1,7 +1,7 @@
 # Day 07 - Do Not Disturb
 
 ## 🔗 Room Link
-https://tryhackme.com/room/donotdisturb
+https://github.com/techyprachi/THM_Hacker_Holidays_2026/edit/main/Day-07-Do-not-Disturb
 
 ---
 
@@ -20,9 +20,7 @@ The attack started with a **NoSQL authentication bypass**, followed by **Server-
 
 > *(Add Room Overview Screenshot Here)*
 
-```
 ![Room Overview](images/room-overview.png)
-```
 
 ---
 
@@ -59,9 +57,7 @@ Instead of validating the password correctly, the backend accepted MongoDB opera
 
 > *(Add Burp Login Screenshot Here)*
 
-```
-images/burp-login.png
-```
+![Burp Login Request](images/burp-login.png)
 
 ---
 
@@ -88,9 +84,9 @@ After forwarding the modified request through Burp Suite, I successfully logged 
 
 > *(Add Staff Dashboard Screenshot Here)*
 
-```
-images/staff-login.png
-```
+
+![Staff Login](images/staff-login.png)
+
 
 ---
 
@@ -116,9 +112,9 @@ After triggering the payload, I received my first reverse shell.
 
 > *(Add Reverse Shell Screenshot Here)*
 
-```
-images/reverse-shell.png
-```
+
+![Reverse Shell](images/reverse-shell.png)
+
 
 ---
 
@@ -140,9 +136,8 @@ The first flag was successfully recovered.
 
 > *(Add User Flag Screenshot Here)*
 
-```
-images/user-flag.png
-```
+![User Flag](images/user-flag.png)
+
 
 ---
 
@@ -178,9 +173,9 @@ node /tmp/ins.js
 
 > *(Add Privilege Escalation Screenshot Here)*
 
-```
-images/pipeline-shell.png
-```
+
+![Pipeline](images/pipeline-shell.png)
+
 
 ---
 
@@ -208,9 +203,9 @@ Since the service account had sufficient access, it was possible to inspect the 
 
 > *(Add lsblk Screenshot Here)*
 
-```
-images/lsblk.png
-```
+
+![Disk](images/lsblk.png)
+
 
 ---
 
@@ -224,9 +219,8 @@ Using the available raw disk access, I successfully recovered the root flag from
 
 > *(Add Root Flag Screenshot Here)*
 
-```
-images/root-flag.png
-```
+
+![root](images/root-flag.png)
 
 ---
 
