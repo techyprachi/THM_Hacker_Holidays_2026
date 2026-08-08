@@ -21,7 +21,7 @@ The attack started with a **NoSQL authentication bypass**, followed by **Server-
 > *(Add Room Overview Screenshot Here)*
 
 ```
-images/room-overview.png
+![Room Overview](images/room-overview.png)
 ```
 
 ---
